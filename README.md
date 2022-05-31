@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamradJN Samrad Jafarian-Namin (Ph.D. in Industrial Engineering)
+- 👋 Hi, I’m Samrad Jafarian-Namin (Ph.D. in Industrial Engineering)
 - 👀 I’m interested in Statistical Process Control and Monitoring, Control Charts, Process Capability Analysis, Acceptance Sampling Plans, Time Series Analysis, and Reliability Engineering
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,6 +6,6 @@
 
 
 <!---
-SamradJN/SamradJN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SamradJN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
